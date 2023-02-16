@@ -1,0 +1,1 @@
+# AndmExampleShopwarePlugin1
